@@ -121,10 +121,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:jviswanathan@lsv.uni-saarland.de" #jviswanathan@lsv.uni-saarland.de
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://your-website.com"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  # url: "https://twitter.com/"
@@ -133,10 +133,10 @@ author:
     # # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/janvis04"
-    #- label: "LinkedIn"
-    #  icon: "fab fa-fw fa-linkedin"
-    #  # url: "https://www.linkedin.com/in/janakivis/"
+      url: "https://github.com/janvis04"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/janakivis/"
 
 # Site Footer
 footer:
