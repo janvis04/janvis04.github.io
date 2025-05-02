@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Janaki Viswanathan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am a PhD student at the Spoken Language Systems (LSV) group at Saarland University."
+  location         : "Saarbrücken"
   email            :
   links:
     - label: "Email"
