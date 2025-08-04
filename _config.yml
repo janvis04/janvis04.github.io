@@ -140,9 +140,6 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap" 
       url: "https://scholar.google.com/citations?hl=en&authuser=1&user=qoGZVZ4AAAAJ"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google" 
-      url: "https://scholar.google.com/citations?hl=en&authuser=1&user=qoGZVZ4AAAAJ"
 
 
 # Site Footer
