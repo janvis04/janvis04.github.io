@@ -137,6 +137,10 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/janakivis/"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"  # Minimal Mistakes supports some icons; if not, use a generic icon
+      url: "https://scholar.google.com/citations?hl=en&authuser=1&user=qoGZVZ4AAAAJ"
+
 
 # Site Footer
 footer:
