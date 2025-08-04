@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Janaki Viswanathan"
   avatar           : "/assets/images/jan.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a PhD student at the Spoken Language Systems (LSV) group at Saarland University."
+  bio              : "PhD student at the Spoken Language Systems (LSV) group, Saarland University."
   location         : "Saarbrücken"
   email            :
   links:
@@ -138,7 +138,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/janakivis/"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"  # Minimal Mistakes supports some icons; if not, use a generic icon
+      icon: "fas fa-fw fa-graduation-cap" 
       url: "https://scholar.google.com/citations?hl=en&authuser=1&user=qoGZVZ4AAAAJ"
 
 
